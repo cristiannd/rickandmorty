@@ -2,6 +2,8 @@
 This project was create with [ReactJS](https://reactjs.org/) by the using of hooks.
 The project aims to search for characters from the serie `Rick and Morty`. And if it's necessary, to show more detailed information about the selected character through a modal.
 
+<img src="/screenshots/Website.jpg">
+
 ## Library
 The library I used was:
 
@@ -18,4 +20,4 @@ The hooks used were `useState`, `useEffect` and a custom hook called `useForm`.
 This hook was reused from another project. It has the function of obtaining the input of the form. It also has a method to reset the input.
 
 ## Website
-To inspect the website you can go to: [Rick and Morty](https://rickandmorty-cristiannd.netlify.app/)
+You can find this website hosted at: [https://rickandmorty-cristiannd.netlify.app/]
